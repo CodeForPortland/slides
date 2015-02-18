@@ -10,7 +10,7 @@ relative_permalinks:  true
 
 # Setup
 title:                Code for Portland
-tagline:              ''
+tagline:              'slides'
 description:          '<a href="/">Code for Portland</a> <br><br> A Code for America Brigade'
 url:                  /slides
 baseurl:              '/slides'
