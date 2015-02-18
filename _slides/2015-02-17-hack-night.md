@@ -1,5 +1,6 @@
 ---
 title: Hack Night February 2015
+date: 2015-02-17 00:00:00 -0800
 ---
 
 ## Code for Portland
