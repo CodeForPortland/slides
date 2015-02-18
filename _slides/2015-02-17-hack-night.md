@@ -57,3 +57,4 @@ https://github.com/codeforportland/housing
 * IRC: #codeforportland on freenode
 * [Projects for New Members](https://docs.google.com/document/d/1wo_skwazuom_Zkp7AmCSjy5JD8Z5WYSbhr2IUmqWdQ0/)
 * [R language](http://www.r-project.org/)
+* [OTREC](http://trec.pdx.edu/) - Transportation Research and Education Center for Portland State University
