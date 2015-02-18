@@ -10,7 +10,7 @@ title: Hack Night February 2015
 
 ## We have a code of conduct!
 
-codeforportland.org/code-of-conduct
+[codeforportland.org/code-of-conduct](codeforportland.org/code-of-conduct)
 
 Please be kind to each other
 
@@ -32,7 +32,7 @@ Please be kind to each other
 
 Housing!
 
-https://github.com/codeforportland/housing
+[github.com/codeforportland/housing](https://github.com/codeforportland/housing)
 
 ---
 
@@ -48,13 +48,18 @@ https://github.com/codeforportland/housing
 
 ## Resources
 
-* http://nwdata.org
+* [nwdata.org](http://nwdata.org)
 * [US City Open Data Census](http://us-city.census.okfn.org/)
 * [Services Census](https://service-census.herokuapp.com/)
-* http://github.com/CodeForPortland
-* http://meetup.com/CodeForPortland
-* http://twitter.com/CodeForPortland
-* IRC: #codeforportland on freenode
 * [Projects for New Members](https://docs.google.com/document/d/1wo_skwazuom_Zkp7AmCSjy5JD8Z5WYSbhr2IUmqWdQ0/)
 * [R language](http://www.r-project.org/)
 * [OTREC](http://trec.pdx.edu/) - Transportation Research and Education Center for Portland State University
+
+---
+
+## Keep in touch!
+
+* [github.com/CodeForPortland](http://github.com/CodeForPortland)
+* [meetup.com/CodeForPortland](http://meetup.com/CodeForPortland)
+* [twitter.com/CodeForPortland](http://twitter.com/CodeForPortland)
+* IRC: #codeforportland on freenode
