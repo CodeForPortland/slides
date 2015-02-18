@@ -32,6 +32,8 @@ Please be kind to each other
 
 Housing!
 
+https://github.com/codeforportland/housing
+
 ---
 
 ## Schedule
@@ -48,8 +50,10 @@ Housing!
 
 * http://nwdata.org
 * [US City Open Data Census](http://us-city.census.okfn.org/)
+* [Services Census](https://service-census.herokuapp.com/)
 * http://github.com/CodeForPortland
 * http://meetup.com/CodeForPortland
 * http://twitter.com/CodeForPortland
 * IRC: #codeforportland on freenode
 * [Projects for New Members](https://docs.google.com/document/d/1wo_skwazuom_Zkp7AmCSjy5JD8Z5WYSbhr2IUmqWdQ0/)
+* [R language](http://www.r-project.org/)
